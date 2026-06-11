@@ -1,6 +1,6 @@
 {
   "about": "Ukládá protokol nzb do souboru",
-  "about_caption": "O rozšíření Logger",
+  "about_caption": "O aplikaci Logger",
   "description": "Tento skript ukládá protokol stahování a následného zpracování souboru nzb do souboru _nzblog.txt v cílovém adresáři.",
-  "requirements": "Tento skript vyžaduje instalaci Pythonu ve vašem systému"
+  "requirements": "Tento skript vyžaduje, aby byl na vašem systému nainstalován Python"
 }

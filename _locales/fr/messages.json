@@ -2,6 +2,5 @@
   "about": "Enregistre le journal nzb dans un fichier",
   "about_caption": "À propos de Logger",
   "description": "Ce script enregistre le journal de téléchargement et de post-traitement du fichier nzb dans le fichier _nzblog.txt dans le répertoire de destination.",
-  "displayName": "Logger",
   "requirements": "Ce script nécessite que Python soit installé sur votre système"
 }
