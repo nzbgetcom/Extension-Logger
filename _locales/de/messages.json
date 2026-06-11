@@ -1,0 +1,6 @@
+{
+  "about": "Speichert das NZB-Protokoll in eine Datei",
+  "about_caption": "Über Logger",
+  "description": "Dieses Skript speichert das Download- und Nachbearbeitungsprotokoll der NZB-Datei in die Datei _nzblog.txt im Zielverzeichnis.",
+  "requirements": "Dieses Skript erfordert, dass Python auf Ihrem System installiert ist"
+}
