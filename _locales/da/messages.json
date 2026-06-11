@@ -1,0 +1,6 @@
+{
+  "about": "Gemmer nzb-log i en fil",
+  "about_caption": "Om Logger",
+  "description": "Dette script gemmer download- og efterbehandlingsloggen for nzb-filen i filen _nzblog.txt i destinationsmappen.",
+  "requirements": "Dette script kræver, at Python er installeret på dit system"
+}
