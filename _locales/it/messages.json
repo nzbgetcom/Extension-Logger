@@ -1,0 +1,6 @@
+{
+  "about": "Salva il log nzb in un file",
+  "about_caption": "Informazioni su Logger",
+  "description": "Questo script salva il log di download e post-elaborazione del file nzb nel file _nzblog.txt nella directory di destinazione.",
+  "requirements": "Questo script richiede che Python sia installato sul sistema"
+}
