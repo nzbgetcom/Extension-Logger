@@ -1,0 +1,6 @@
+{
+  "about": "nzb günlüğünü bir dosyaya kaydeder",
+  "about_caption": "Logger Hakkında",
+  "description": "Bu betik, nzb dosyasının indirme ve son işlem günlüğünü hedef dizindeki _nzblog.txt dosyasına kaydeder.",
+  "requirements": "Bu betik, sisteminizde Python'un kurulu olmasını gerektirir"
+}
