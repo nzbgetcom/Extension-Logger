@@ -1,0 +1,6 @@
+{
+  "about": "Guarda o registo nzb num ficheiro",
+  "about_caption": "Sobre o Logger",
+  "description": "Este script guarda o registo de transferência e pós-processamento do ficheiro nzb no ficheiro _nzblog.txt no diretório de destino.",
+  "requirements": "Este script requer que o Python esteja instalado no seu sistema"
+}
