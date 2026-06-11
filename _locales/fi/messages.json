@@ -1,0 +1,6 @@
+{
+  "about": "Tallentaa nzb-lokin tiedostoon",
+  "about_caption": "Tietoja Loggerista",
+  "description": "Tämä skripti tallentaa nzb-tiedoston lataus- ja jälkikäsittelylokin tiedostoon _nzblog.txt kohdehakemistossa.",
+  "requirements": "Tämä skripti vaatii Pythonin asennettuna järjestelmääsi"
+}
