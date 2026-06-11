@@ -1,8 +1,12 @@
 ## NZBGet Versions
 
-- pre-release v23+  [v2.0](https://github.com/nzbgetcom/Extension-Logger/releases/tag/v2.0)
+- pre-release v23+ [v2.0](https://github.com/nzbgetcom/Extension-Logger/releases/tag/v2.0)
 - stable  v22 [v1.0](https://github.com/nzbgetcom/Extension-Logger/releases/tag/v1.0)
 - legacy  v21 [v1.0](https://github.com/nzbgetcom/Extension-Logger/releases/tag/v1.0)
+
+## Internationalization
+
+Extension labels are localized through the [locales.source.json](locales.source.json) file. Translation support requires **NZBGet v26.2 or later**. Older versions fall back to the English text from `manifest.json`.
 
 # Logger
 Logger [script](https://nzbget.com/documentation/post-processing-scripts/) for [NZBGet](https://nzbget.com).

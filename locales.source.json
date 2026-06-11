@@ -1,0 +1,18 @@
+{
+    "about_caption": {
+        "message": "About Logger",
+        "description": "Section heading for extension description in settings"
+    },
+    "about": {
+        "message": "Saves nzb log into a file",
+        "description": "Short description shown in the extension manager table"
+    },
+    "description": {
+        "message": "This script saves the download and post-processing log of nzb-file into file _nzblog.txt in the destination directory.",
+        "description": "Full description of the extension shown in settings"
+    },
+    "requirements": {
+        "message": "This script requires Python to be installed on your system",
+        "description": "System requirements displayed to the user"
+    }
+}
