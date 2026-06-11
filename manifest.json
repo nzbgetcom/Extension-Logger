@@ -4,17 +4,17 @@
     "homepage": "https://github.com/nzbgetcom/Extension-Logger",
     "kind": "POST-PROCESSING",
     "displayName": "Logger",
-    "version": "2.0.0",
+    "version": "2.1",
     "author": "Andrey Prygunkov",
     "license": "GNU",
-    "about": "Saves nzb log into a file.",
+    "about": "Saves nzb log into a file",
     "queueEvents": "",
     "requirements": [
-        "This script requires Python to be installed on your system."
+        "This script requires Python to be installed on your system"
     ],
     "description": [
         "This script saves the download and post-processing log of nzb-file",
-        "into file _nzblog.txt in the destination directory."
+        "into file _nzblog.txt in the destination directory"
     ],
     "options": [],
     "commands": [],
