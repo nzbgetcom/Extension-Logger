@@ -1,0 +1,6 @@
+{
+  "about": "Zapisuje dziennik nzb do pliku",
+  "about_caption": "O Loggerze",
+  "description": "Ten skrypt zapisuje dziennik pobierania i przetwarzania końcowego pliku nzb do pliku _nzblog.txt w katalogu docelowym.",
+  "requirements": "Ten skrypt wymaga zainstalowanego Pythona w systemie"
+}
