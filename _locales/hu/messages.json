@@ -1,0 +1,6 @@
+{
+  "about": "Az nzb naplót fájlba menti",
+  "about_caption": "A Logger névjegye",
+  "description": "Ez a szkript az nzb-fájl letöltési és utófeldolgozási naplóját a célkönyvtárban lévő _nzblog.txt fájlba menti.",
+  "requirements": "Ez a szkript megköveteli, hogy a Python telepítve legyen a rendszeren"
+}
