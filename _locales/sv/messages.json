@@ -1,0 +1,6 @@
+{
+  "about": "Sparar nzb-logg till en fil",
+  "about_caption": "Om Logger",
+  "description": "Det här skriptet sparar nedladdnings- och efterbehandlingsloggen för nzb-filen till filen _nzblog.txt i målkatalogen.",
+  "requirements": "Det här skriptet kräver att Python är installerat på ditt system"
+}
