@@ -1,0 +1,6 @@
+{
+  "about": "Salvează jurnalul nzb într-un fișier",
+  "about_caption": "Despre Logger",
+  "description": "Acest script salvează jurnalul de descărcare și post-procesare al fișierului nzb în fișierul _nzblog.txt din directorul de destinație.",
+  "requirements": "Acest script necesită instalarea Python pe sistemul dumneavoastră"
+}
