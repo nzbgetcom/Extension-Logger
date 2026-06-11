@@ -1,0 +1,6 @@
+{
+  "about": "Slaat nzb-log op in een bestand",
+  "about_caption": "Over Logger",
+  "description": "Dit script slaat het download- en nabewerkingslogboek van het nzb-bestand op in het bestand _nzblog.txt in de doelmap.",
+  "requirements": "Dit script vereist dat Python op uw systeem is geïnstalleerd"
+}
